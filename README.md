@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Shubham Chaubey
 
+
+---
+
 ### About Me 👨‍💻
 
 I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building web applications and currently diving deep into the world of AI & ML.
@@ -10,11 +13,15 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
 
 ---
 
-### My Skills 🛠
+### My Tech Stack 🛠
 
-- **Languages:** Python, C++, SQL, HTML, CSS
-- **Frameworks:** Flask
-- **Other:** AI/ML, Blockchain
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,mysql,tensorflow,blockchain&perline=4" />
+  </a>
+</p>
+
+*Note: I used MySQL for SQL and TensorFlow for AI/ML as representative icons.*
 
 ---
 
