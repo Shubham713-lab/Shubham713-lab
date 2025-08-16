@@ -44,10 +44,6 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blockchain" width="48" height="48" alt="Blockchain" />
-      <br>Blockchain
-    </td>
   </tr>
 </table>
 
