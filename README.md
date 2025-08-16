@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Shubham Chaubey
 
-
 ---
 
 ### About Me 👨‍💻
@@ -15,13 +14,42 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
 
 ### My Tech Stack 🛠
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,mysql,tensorflow,blockchain&perline=4" />
-  </a>
-</p>
-
-*Note: I used MySQL for SQL and TensorFlow for AI/ML as representative icons.*
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blockchain" width="48" height="48" alt="Blockchain" />
+      <br>Blockchain
+    </td>
+  </tr>
+</table>
 
 ---
 
