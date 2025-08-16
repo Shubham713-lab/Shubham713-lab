@@ -1,14 +1,5 @@
 # Hi there 👋, I'm Shubham Chaubey
 
-<a href="https://github.com/Shubham713-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham713-lab&show_icons=true&theme=dark&line_height=27" alt="Shubham's github stats"/>
-</a>
-<a href="https://github.com/Shubham713-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham713-lab&theme=dark" />
-</a>
-
----
-
 ### About Me 👨‍💻
 
 I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building web applications and currently diving deep into the world of AI & ML.
