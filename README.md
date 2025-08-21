@@ -40,10 +40,10 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
+<!--     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="PostreSql" />
+      <br>PostreSQL
+    </td> -->
   </tr>
 </table>
 
@@ -53,10 +53,10 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
 
 | Project | Description |
 |---|---|
-| **Adaa-Jaipur** | A fashion e-commerce website with personalized recommendations and chatbots, utilizing AI/ML and Blockchain. |
+| **Kanban-ToDo** | Kanban Styled dashboard with Collabration with other and real time update. |
 | **C-** | A collection of C++ code from my second semester of studies. |
 | **Portfolio** | My personal portfolio website built with HTML. |
-| **Club** | A project developed using HTML. |
+| **Club** | A project developed using HTML, CSS, Flask, PostreSql - for collage club named - code Forge |
 
 ---
 
