@@ -49,14 +49,6 @@ I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building
 
 ---
 
-### My Projects 🚀
-
-| Project | Description |
-|---|---|
-| **Kanban-ToDo** | Kanban Styled dashboard with Collabration with other and real time update. |
-| **C-** | A collection of C++ code from my second semester of studies. |
-| **Portfolio** | My personal portfolio website built with HTML. |
-| **Club** | A project developed using HTML, CSS, Flask, PostreSql - for collage club named - code Forge |
 
 ---
 
