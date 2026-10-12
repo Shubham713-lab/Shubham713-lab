@@ -25,9 +25,3 @@ I'm a third-year Computer Science student from India interested in full-stack de
 
 Data Structures and Algorithms, full-stack development, and machine learning.
 
-### Connect
-
-- [GitHub](https://github.com/Shubham713-lab)
-- [LinkedIn](https://www.linkedin.com/in/shubham-chaubey-10613b33b)
-- Email: `your-email@example.com`
-
