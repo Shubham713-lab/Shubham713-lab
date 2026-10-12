@@ -1,56 +1,33 @@
-# Hi there 👋, I'm Shubham Chaubey
+# Shubham Chaubey
 
----
+**B.Tech CSE Student at Marwadi University | Aspiring Software Developer**
 
-### About Me 
+I'm a third-year Computer Science student from India interested in full-stack development and AI/ML. I enjoy learning new technologies and building projects that solve practical problems.
 
-I'm a Full-stack Developer based in Rajkot, India. I'm passionate about building web applications and currently diving deep into the world of AI & ML.
+### Skills
 
--  I’m currently working on enhancing my skills in AI and Machine Learning.
--  I’m currently learning more about advanced concepts in AI/ML.
--  How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-chaubey-10613b33b)
+- **Languages:** C++, Python, JavaScript
+- **Frontend:** React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub
 
----
+### Projects
 
-### My Tech Stack 🛠
+| Project | Description |
+|---|---|
+| [Leafify](https://github.com/Shubham713-lab/Leafify) | An AI-powered application for identifying medicinal plants. |
+| [ML-Models](https://github.com/Shubham713-lab/ML-Models) | Machine learning projects for prediction and classification. |
+| [ComplexityLens](https://github.com/Shubham713-lab/ComplexityLens) | ComplexityLens – Analyze Code, Count Operations & Predict Big-O |
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="PostreSql" />
-      <br>PostreSQL
-    </td> -->
-  </tr>
-</table>
 
----
+### Currently Learning
 
-### Connect with me 
+Data Structures and Algorithms, full-stack development, and machine learning.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shubham-chaubey-10613b33b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-chaubey-10613b33b" height="30" width="40" /></a>
-</p>
+### Connect
+
+- [GitHub](https://github.com/Shubham713-lab)
+- [LinkedIn](https://www.linkedin.com/in/shubham-chaubey-10613b33b)
+- Email: `your-email@example.com`
+
